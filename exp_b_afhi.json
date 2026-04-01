@@ -1,0 +1,6 @@
+{
+  "afhi_global": 0.0,
+  "afhi_per_layer": {},
+  "gradient_norm_defend": 70.26253524354863,
+  "gradient_norm_attack": 37.36200621620187
+}

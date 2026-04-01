@@ -1,0 +1,15 @@
+{
+  "defend_reward_mean": -4.59326930642128,
+  "defend_reward_std": 4.833978288134373,
+  "attack_reward_mean": 4.559453524947166,
+  "attack_reward_std": 4.828821892377301,
+  "defend_grad_norm_final": 0.566982421875,
+  "attack_grad_norm_final": 0.60171875,
+  "equilibrium_gap": 0.03381578147411357,
+  "sum_reward": -0.03381578147411357,
+  "game_value": -4.59326930642128,
+  "tail_defend_std": 4.833978288134373,
+  "tail_attack_std": 4.828821892377301,
+  "is_converged": false,
+  "is_empirically_zero_sum": true
+}

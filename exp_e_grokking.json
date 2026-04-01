@@ -1,0 +1,25 @@
+{
+  "checkpoint_steps": [
+    0,
+    990
+  ],
+  "train_syco_rate": [
+    0.27450980392156865,
+    0.029411764705882353
+  ],
+  "held_out_syco_rate": [
+    0.2692307692307692,
+    0.038461538461538464
+  ],
+  "delta_curve": [
+    -0.0052790346907994334,
+    0.009049773755656111
+  ],
+  "grokking_detected": false,
+  "grokking_step": -1,
+  "grokking_delay": -1,
+  "train_converge_step": -1,
+  "using_proxy": false,
+  "syco_base": 0.27450980392156865,
+  "syco_defend": 0.029411764705882353
+}

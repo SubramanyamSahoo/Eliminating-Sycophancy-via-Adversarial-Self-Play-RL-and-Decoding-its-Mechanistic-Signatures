@@ -1,0 +1,22 @@
+\begin{table}[t]
+\centering
+\caption{Phase 6 extended mechanistic analysis.}
+\label{tab:phase6_summary}
+\begin{tabular}{lll}
+\toprule
+Metric & Value & Interpretation \\
+\midrule
+TPEG (entropy gap) & $-0.0202$ & higher = defend explores more \\
+AFHI (global) & $0.0000$ & near 0 = orthogonal updates \\
+SVD alignment (mean) & $0.0000$ & higher = rank-1 projection \\
+Intrinsic dim 90\% (mean) & $39.0$ & vs LoRA rank \\
+LoRA rank & $64$ & sufficient \\
+Grokking detected & $No$ & delay=-1 steps \\
+Nash eq. gap & $0.0338$ & near 0 = zero-sum eq. \\
+Nash converged & $No$ & V*=-4.593 \\
+Logit lens flip layer & $L62$ & base: L62 \\
+Alignment tax slope & $-0.2845$ & dcap/dsyco \\
+Most causal token pos. & $all\_tokens$ & delta=+0.000 \\
+\bottomrule
+\end{tabular}
+\end{table}
